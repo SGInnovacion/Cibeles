@@ -1,0 +1,18 @@
+/*
+* Licencia con arreglo a la EUPL, Versión 1.2 o –en cuanto sean aprobadas por la
+* Comisión Europea– versiones posteriores de la EUPL (la «Licencia»)
+* 
+* Los componentes desarrollados por el Ayuntamiento de Madrid se encuentran en las
+* siguientes carpetas y se distribuyen bajo la misma licencia (EUPL v1.2).
+* 
+* custom_slot
+* intentHandlers
+* 
+* Puede obtenerse una copia de la Licencia en el archivo LICENSE.md o en la url * http://joinup.ec.europa.eu/software/page/eupl/licence-eupl
+* 
+* Fecha 01 de enero de 2021
+* 
+* Contacto del propietario de la aplicación:
+* Subdirección General de Innovación e Información Urbana | Área de Desarrollo Urbano | Ayuntamiento de Madrid
+* sginnovacion@madrid.es
+*/

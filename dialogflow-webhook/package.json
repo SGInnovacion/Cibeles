@@ -1,0 +1,48 @@
+/*
+* Licencia con arreglo a la EUPL, Versión 1.2 o –en cuanto sean aprobadas por la
+Comisión Europea– versiones posteriores de la EUPL (la «Licencia»);
+* Solo podrá usarse esta obra si se respeta la Licencia.
+* Puede obtenerse una copia de la Licencia en:
+* http://joinup.ec.europa.eu/software/page/eupl/licence-eupl
+* Salvo cuando lo exija la legislación aplicable o se acuerde por escrito, el programa
+distribuido con arreglo a la Licencia se distribuye «TAL CUAL», SIN GARANTÍAS NI
+CONDICIONES DE NINGÚN TIPO, ni expresas ni implícitas.
+* Véase la Licencia en el idioma concreto que rige los permisos y limitaciones que
+establece la Licencia.
+*/
+
+{
+  "name": "dialogflow-aws-lambda",
+  "version": "1.0.0",
+  "description": "Dialogflow fulfillment webhook on AWS Lambda with ExpressJs",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.12.0",
+    "ask-sdk": "^2.7.0",
+    "ask-sdk-model": "^1.18.0",
+    "aws-sdk": "^2.549.0",
+    "aws-serverless-express": "^3.3.5",
+    "axios": "^0.19.0",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
+    "dialogflow": "^0.6.0",
+    "dialogflow-fulfillment": "^0.5.0",
+    "dynamodb-doc": "^1.0.0",
+    "express": "^4.16.4",
+    "googleapis": "^27.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
